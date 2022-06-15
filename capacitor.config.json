@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "creport-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "creport-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "671b7da6"
+}
